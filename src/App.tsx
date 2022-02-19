@@ -1,4 +1,5 @@
 import { ChangeEvent, useState, VFC } from "react";
+import { ethers } from "ethers";
 import "./App.sass";
 
 const Header: VFC = () => {
